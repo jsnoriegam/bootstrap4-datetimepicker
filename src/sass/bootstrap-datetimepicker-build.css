@@ -198,7 +198,7 @@
     height: 27px;
     line-height: 27px; }
 
-.input-group.date .input-group-addon {
+.input-group.date .input-group-append {
   cursor: pointer; }
 
 /*# sourceMappingURL=bootstrap-datetimepicker-build.css.map */
